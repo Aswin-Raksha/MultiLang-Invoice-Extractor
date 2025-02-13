@@ -19,7 +19,6 @@ MultiLang Invoice Extractor is an AI-driven application that extracts and analyz
 ✔️ Simple and intuitive Streamlit UI.
 
 
-## Tech Stack
 
 
 
