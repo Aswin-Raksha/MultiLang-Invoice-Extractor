@@ -32,7 +32,7 @@ def input_image_details(uploaded_file):
 
 st.set_page_config(page_title = "MultiLanguage Invoice Extractor")
 
-st.header("Gemini Application")
+st.header("MultiLang Invoice Extractor")
 input = st.text_input("Input Prompt : ",key = "input")
 uploaded_file = st.file_uploader("Choose an image of the Invoice",type = ["jpeg","jpg","png"])
 
